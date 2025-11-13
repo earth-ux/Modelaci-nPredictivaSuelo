@@ -1,0 +1,24 @@
+<PAMDataset>
+  <Metadata>
+    <MDI key="AcquisitionDate">44025.629629629627743270</MDI>
+    <MDI key="CloudCover">0.680000000000000049</MDI>
+    <MDI key="DataType">Generic</MDI>
+    <MDI key="ParentRasterType">PlanetScope</MDI>
+    <MDI key="ParentTemplate">Multispectral</MDI>
+    <MDI key="ProductName">L3B</MDI>
+    <MDI key="SensorAzimuth">11.085010000000000474</MDI>
+    <MDI key="SensorElevation">0.031208360000000001</MDI>
+    <MDI key="SensorName">PlanetScope</MDI>
+    <MDI key="SunAzimuth">57.578119999999998413</MDI>
+    <MDI key="SunElevation">56.792439999999999145</MDI>
+  </Metadata>
+  <PAMRasterBand band="1">
+    <Description>NDVI</Description>
+    <NoDataValue le_hex_equiv="000000C033F9EF47">3.39999995214436E+38</NoDataValue>
+    <Metadata>
+      <MDI key="RadianceBias">0.000000000000000000</MDI>
+      <MDI key="RadianceGain">0.010000000000000000</MDI>
+      <MDI key="RepresentationType">ATHEMATIC</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>
